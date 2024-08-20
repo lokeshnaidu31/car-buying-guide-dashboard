@@ -4,7 +4,7 @@
 
 The Car Buying Guide Dashboard is an interactive tool designed to assist users in making informed decisions when purchasing a car. The dashboard provides a comprehensive overview of various car models, their features, prices, and comparisons in engine types and prices. It is built to be user-friendly and accessible, making the car buying process easier and more efficient.
 
-## Features
+## Insights
 
 - **Car engine comparision:** Compare different car engine using bar graph based on bhp they are generating.
 - **Price comparision:** campare the avg prices of different engine cc's.
